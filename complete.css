@@ -659,7 +659,7 @@ body {
   color: #666;
 }
 
-/* ==================== BOOKING SECTION ==================== */
+
 .booking-hero {
   min-height: 350px;
   display: flex;
@@ -884,7 +884,6 @@ body {
   text-decoration: underline;
 }
 
-/* ==================== CONTACT SECTION ==================== */
 .contact-hero {
   min-height: 350px;
   display: flex;
